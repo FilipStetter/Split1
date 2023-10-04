@@ -12,6 +12,7 @@ public class Main {
 
 
         // I DENNA SWITCH ANVÄNDS POLYMORFISM
+
         switch (vaxtNamn) {
             case "Igge":
                 vaxt = new Kaktus("Igge", 0.2);
